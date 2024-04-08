@@ -37,7 +37,7 @@ namespace mems {
 	}
       }
 
-      if (!found && i < max_generate_tokens && !tokens.empty()) {
+      if (!found) {
 	out << endl;
       }
     }
