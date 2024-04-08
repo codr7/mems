@@ -1,4 +1,6 @@
 * add readFile
+** claes/load
 ** finish readers
 * add alloc from claes
 ** use to alloc nodes
+* add repl from claes
